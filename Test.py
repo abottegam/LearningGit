@@ -1,3 +1,4 @@
+from tkinter import messagebox
 inp = input("Input: ").lower()
 fnd = input("Word to find: ")
 
@@ -8,4 +9,5 @@ for letter in fnd:
         print("No!!")
         break
 else:
+    messagebox.showinfo("Answer", "Yes :)")
     print("Yes :)")
