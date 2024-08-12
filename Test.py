@@ -11,5 +11,7 @@ for letter in fnd:
 else:
     messagebox.showinfo("Answer", "Yes :)")
     #comments
-    print("Bryon Gyattlin III")
+    jhjhkk
+    
+    print("Bryon Gyattlin III 323232323232")
     print("Yes :)")
