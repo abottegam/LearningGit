@@ -1,5 +1,4 @@
 from tkinter import messagebox
-
 inp = input("Input: ").lower()
 fnd = input("Word to find: ")
 
@@ -12,7 +11,8 @@ for letter in fnd:
 else:
     messagebox.showinfo("Answer", "Yes :)")
     #comments
-    jhjhkk
-    
     print("Bryon Gyattlin III 323232323232")
+
+
+    print("HOLYYYYYY GYATTT WHAT THE SIGMA!!!")
     print("Yes :)")
