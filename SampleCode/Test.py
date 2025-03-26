@@ -15,3 +15,4 @@ else:
 
 def russian_roulette():
     pass
+    print("Told ya!")
