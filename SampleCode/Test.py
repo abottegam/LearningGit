@@ -9,10 +9,5 @@ for letter in fnd:
         print("No!!")
         break
 else:
-    messagebox.showinfo("Answer", "Yes :)")
-    #comments
-    print("Bryon Gyattlin III 323232323232")
-
-
-    print("HOLYYYYYY GYATTT WHAT THE SIGMA!!!")
-    print("Yes :)")
+    print(f"{fnd} could not be found")
+    print("Sorry!")
