@@ -44,6 +44,3 @@ Each topic has corresponding exercises in the `exercises/` directory. Try them o
 ## Contributing
 Feel free to contribute by adding more exercises, fixing errors, or improving documentation. Fork the repository, make changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
