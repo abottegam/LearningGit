@@ -12,3 +12,6 @@ else:
     print(f"{fnd} could not be found")
     print("Sorry!")
     print("Told ya, Adriana! Tooold ya!")
+
+def russian_roulette():
+    pass
